@@ -5,3 +5,8 @@ class TestPrint():
 
     def test_summary(self):
         print("总结")
+        print("两个Print语句被执行")
+
+
+
+
